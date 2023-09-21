@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_imgapichequim_name": {
+            "value": null
+        },
+        "sites_imgwebchequim_name": {
+            "value": null
+        },
+        "serverfarms_ASP_az204lab01_8823_name": {
+            "value": null
+        },
+        "storageAccounts_imgstorechequim_name": {
+            "value": null
+        }
+    }
+}
