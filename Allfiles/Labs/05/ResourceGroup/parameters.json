@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "containerapps_my_container_app_name": {
+            "value": null
+        },
+        "managedEnvironments_az204_env_chequim_name": {
+            "value": null
+        },
+        "registries_conregistry13687_name": {
+            "value": null
+        },
+        "containerGroups_manualcompute_name": {
+            "value": null
+        },
+        "containerGroups_managedcompute_name": {
+            "value": null
+        },
+        "workspaces_workspace_az204lab05rrQK_name": {
+            "value": null
+        }
+    }
+}
