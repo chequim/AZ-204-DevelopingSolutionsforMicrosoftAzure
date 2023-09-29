@@ -1,0 +1,15 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "serverfarms_EventPlan_name": {
+            "value": null
+        },
+        "sites_eventviewerchequim_name": {
+            "value": null
+        },
+        "topics_hrtopicchequim_name": {
+            "value": null
+        }
+    }
+}
