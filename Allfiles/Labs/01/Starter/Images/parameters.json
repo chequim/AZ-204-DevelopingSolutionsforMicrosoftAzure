@@ -1,0 +1,42 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_win1_name": {
+            "value": null
+        },
+        "virtualMachines_win2_name": {
+            "value": null
+        },
+        "virtualMachines_win3_name": {
+            "value": null
+        },
+        "virtualNetworks_hub_vnet_name": {
+            "value": null
+        },
+        "applicationGateways_app_gw_name": {
+            "value": null
+        },
+        "virtualNetworks_spoke_vnet_name": {
+            "value": null
+        },
+        "networkInterfaces_win151_z1_name": {
+            "value": null
+        },
+        "networkInterfaces_win2525_z1_name": {
+            "value": null
+        },
+        "networkInterfaces_win3492_z1_name": {
+            "value": null
+        },
+        "networkSecurityGroups_win1_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_win3_nsg_name": {
+            "value": null
+        },
+        "publicIPAddresses_app_gw_publicip_name": {
+            "value": null
+        }
+    }
+}
